@@ -1,0 +1,42 @@
+.mainCard {
+    background-color: #fff5ee;
+    border-bottom: 1px solid #000000;
+}
+
+.loginBtn {
+    background-color: #15c286;
+    border-radius: 50px;
+    box-shadow: none;
+}
+
+.loginBtn:hover {
+    background-color: #15d286;
+    border-radius: 50px;
+    box-shadow: none;
+}
+
+.loginBtn:focus {
+    background-color: #15c286;
+    border-radius: 50px;
+    box-shadow: none;
+}
+
+.successMessage {
+    background-color: #15d286;
+    color: #fff5ee;
+    padding: 10px;
+    border-bottom-right-radius: 2px;
+}
+
+.errorMessage {
+    background-color: #ec0f47;
+    color: #fff5ee;
+    padding: 10px;
+    border-bottom-right-radius: 2px;
+}
+
+.sucessLink {
+    color: #1a1333;
+    font-size: 14px;
+    font-style: italic;
+}

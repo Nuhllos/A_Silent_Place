@@ -1,0 +1,58 @@
+#tags {
+    border-bottom: 1px solid #80808080;
+}
+
+.highlited {
+    border: none;
+}
+
+.genreBtn {
+    border-radius: 50px;
+}
+
+.movie {
+    position: relative;
+    overflow: hidden;
+}
+
+.movie-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    letter-spacing: 0.5px;
+}
+
+.span span {
+    background-color: #8080801a;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.span span.green {
+    color: #15d286;
+}
+
+.span span.orange {
+    color: #fbbf54;
+}
+
+.span span.red {
+    color: #ec0f47;
+}
+
+.overview {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff5ee;
+    max-height: 100%;
+    transform: translateY(101%);
+    transition: transform 0.3s ease-in;
+    font-size: 15px;
+}
+
+.movie:hover .overview {
+    transform: translateY(0);
+}

@@ -1,0 +1,40 @@
+.modal-content {
+    background-color: #faf6f0;
+    border-radius: 3px;
+}
+
+.modalBtn {
+    background-color: #15c286;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+.modalBtn:hover {
+    background-color: #15d286;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+.modalBtn:focus {
+    background-color: #15e286;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+.modalBtnN {
+    background-color: #ec0f47;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+.modalBtnN:hover {
+    background-color: #ed0f47;
+    border-radius: 2px;
+    box-shadow: none;
+}
+
+.modalBtnN:focus {
+    background-color: #ee0f47;
+    border-radius: 2px;
+    box-shadow: none;
+}

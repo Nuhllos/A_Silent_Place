@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::selection {
+    background: #15c286;
+}
+
+body {
+    background-color: #000000cc;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+    opacity: 0.9;
+}
+
+.navbar .navbar-brand {
+    font-family: 'Dancing Script', cursive;
+}
+
+.dropdown-menu {
+    box-shadow: none;
+}
+
+.form-control, .dropdown-menu{
+    background-color: #fff5ee;
+    border-radius: 1px;
+}
+
+.dropdown-menu {
+    border: 1px solid #000000;
+}
+
+.dropdown-item:hover {
+    background-color: #fff5ee;
+}
+
+.form-control:focus {
+    border-color: #15c286;
+    box-shadow: inset 1px 1px #00000013
+}
+
+.h3 {
+    font-family: 'Dancing Script', cursive;
+}
+
+.cleanBtn {
+    background-color: #ec0f47;
+    border-radius: 50px;
+    box-shadow: none;
+}
+
+.cleanBtn:hover {
+    background-color: #ed0f47;
+    border-radius: 50px;
+    box-shadow: none;
+}
+
+.div img {
+    border-radius: 2px;
+}
+
+.page-link, .page-iten {
+    color: #15c286;
+    font-weight: bold;
+    
+}
+.page-link:hover, .page-iten:hover {
+    background-color: #fff5ee;
+}
+
+.page-link:focus, .page-iten:focus {
+    color: #022c7a;
+}
+
+.white, .white {
+    color: #022c7a;
+    font-weight: bold;
+}
+.white:hover, .white:hover {
+    background-color: #fff5ee;
+}
+
+.pageNav {
+    background-color: #fff5ee;
+}
+
+.nextPrevious {
+    background-color: none;
+}
+
+.nextPrevious:hover {
+    background-color: #00000000;
+}
+
+.nextPrevious:focus {
+    background-color: #00000000;
+    color: #022c7a;
+}
+
+.disabled {
+    color: #757575;
+    cursor: not-allowed;
+}
+.disabled:hover {
+    color: #757575;
+    cursor: not-allowed;
+}
+.disabled:focus {
+    color: #757575;
+    cursor: not-allowed;
+}
+
+.faded-text {
+    color: #aaaaaa;
+    font-size: 15px;
+}
+
+.review {
+    background-color: #8080801a;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.green {
+    color: #15d286;
+}
+
+.orange {
+    color: #fbbf54;
+}
+
+.red {
+    color: #ec0f47;
+}

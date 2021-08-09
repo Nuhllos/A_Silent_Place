@@ -1,0 +1,2 @@
+# A_Silent_Place
+A Silent Place é um projeto levantado com o objetivo de testar e aprimorar as habilidades do seu desenvolvedor, todas as ferramentas ultilizadas nesta campanha são gratuitas e de fácil acesso. Imagens disponiveis gratuitamente por unsplash.com. Aplicação de filmes disponibilizada e alimentada pelo The Movie Database (TMDB)  Além dos três pilares do desenvolvimento web (HTML, CSS, JS), foram também ultilizadas as tecnologias PHP, SQL, Bootstrap 5 e diferentes outras APIs para a formação final do site.

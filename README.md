@@ -3,7 +3,7 @@ Quatro Parágrafos é um projeto levantado com o objetivo de testar e aprimorar
 
 Além dos três pilares do desenvolvimento web (HTML, CSS, JS), foram também ultilizadas as tecnologias PHP, SQL, Bootstrap 5 e diferentes outras APIs para a formação final do site.
 
-Site online: http://asilentplace.epizy.com/index.php
+Site online: https://quatroparagrafos.epizy.com/index.php
 
 Funcionalidades:
 
